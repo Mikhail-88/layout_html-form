@@ -1,0 +1,13 @@
+.blocks {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+.inputs {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.age {
+  width: 65px;
+}
